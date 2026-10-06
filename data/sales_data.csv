@@ -1,0 +1,653 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Region,Quantity,Sales,Discount,Profit
+ORD-10640,2025-08-01,Shreya Dutta,Football,Sports,South,2.0,833.4,0.37,-64.72
+ORD-10266,2025-11-10,Anjali Mishra,Laser Printer,Electronics,West,1.0,11397.25,0.13,409.55
+ORD-10261,2025-09-08,Kavita Saxena,Tablet,Electronics,North,1.0,22691.35,0.0,5025.58
+ORD-10235,2025-04-01,Neha Gupta,Yoga Mat,Sports,West,2.0,915.38,0.12,225.98
+ORD-10073,2025-10-04,Kavita Saxena,Cricket Bat,Sports,South,1.0,3396.74,0.23,67.69
+ORD-10484,2025-03-08,Ravi Teja,Cotton Shirt,Clothing,North,2.0,2191.3,,483.9
+ORD-10409,2025-03-11,Preeti Vyas,Wireless Headphones,Electronics,North,1.0,2708.34,0.06,463.65
+ORD-10132,2025-01-11,Harish Prasad,Yoga Mat,Sports,East,2.0,918.22,0.0,241.15
+ORD-10497,2025-01-18,Pooja Deshmukh,Winter Jacket,Clothing,North,6.0,11654.74,0.06,3797.66
+ORD-10636,2025-11-08,Nikhil Bhatt,Wireless Headphones,Electronics,East,3.0,4749.44,0.0,1105.5
+ORD-10276,2025-11-19,Aditya Rao,Denim Jeans,Clothing,North,2.0,4483.78,0.07,979.51
+ORD-10603,2025-11-01,Sneha Patil,Yoga Mat,Sports,West,1.0,926.57,0.0,261.92
+ORD-10450,2025-06-07,Vikram Singh,Cooking Oil 1L,Grocery,East,3.0,425.29,0.2,-30.78
+ORD-10082,2025-11-13,Rohan Verma,Denim Jeans,Clothing,East,4.0,4750.95,0.23,427.96
+ORD-10498,2025-08-04,Aditya Rao,Cooking Oil 1L,Grocery,South,2.0,375.46,0.0,42.36
+ORD-10353,2025-10-13,Ananya Iyer,Rice Bag 5kg,Grocery,East,1.0,437.36,0.07,7.0
+ORD-10634,2025-12-01,Priyanka Sethi,Cotton Shirt,Clothing,South,6.0,5934.35,0.13,942.64
+ORD-10569,2025-05-10,Nikhil Bhatt,Cotton Shirt,Clothing,North,3.0,2125.14,0.23,327.2
+ORD-10070,2025-11-27,Anjali Mishra,Winter Jacket,Clothing,South,3.0,6335.63,0.0,1880.79
+ORD-10011,2025-04-06,Neha Gupta,Cotton Shirt,Clothing,North,5.0,9798.25,0.0,2852.76
+ORD-10585,2025-08-16,Rupal Gandhi,Yoga Mat,Sports,South,5.0,2958.9,0.2,244.09
+ORD-10064,2025-04-19,Harish Prasad,Sugar Bag 5kg,Grocery,East,3.0,502.31,0.36,-104.18
+ORD-10345,2025-11-15,Harish Prasad,Detergent Powder,Grocery,West,1.0,337.62,0.0,64.98
+ORD-10055,2025-12-01,Shreya Dutta,Tea Pack,Grocery,South,4.0,1122.58,0.0,106.66
+ORD-10537,2025-05-02,Neha Gupta,Silk Saree,Clothing,West,5.0,38596.97,0.0,13109.26
+ORD-10285,2025-06-14,Harish Prasad,Rice Bag 5kg,Grocery,South,4.0,1236.41,0.0,129.47
+ORD-10249,2025-07-04,Aarav Sharma,Cotton Shirt,Clothing,South,1.0,1803.17,0.0,541.39
+ORD-10433,2025-06-01,Sonal Pande,Tea Pack,Grocery,North,2.0,433.73,0.0,47.11
+ORD-10621,2025-06-17,Shreya Dutta,Detergent Powder,Grocery,West,2.0,224.73,0.38,-56.67
+ORD-10032,2025-11-16,Pooja Deshmukh,Dumbbell Set,Sports,West,3.0,5013.97,0.37,-455.6
+ORD-10258,2025-05-12,Vikram Singh,Wireless Headphones,Electronics,East,1.0,2675.7,0.1,365.81
+ORD-10056,2025-07-16,Charu Sinha,Detergent Powder,Grocery,North,5.0,733.05,0.09,44.02
+ORD-10175,2025-09-04,Harish Prasad,Laser Printer,Electronics,West,3.0,38955.85,0.0,9880.84
+ORD-10582,2025-12-20,Divya Krishnan,Silk Saree,Clothing,North   ,1.0,3711.65,0.0,1387.77
+ORD-10553,2025-10-12,Anjali Mishra,Office Chair,Furniture,East,1.0,4230.62,0.19,-34.24
+ORD-10211,2025-04-01,Rahul Malhotra,Tea Pack,Grocery,South,1.0,292.03,0.0,29.54
+ORD-10111,2025-11-21,Amit Joshi,Winter Jacket,Clothing,West,5.0,8237.98,0.1,1624.13
+ORD-10210,2025-02-21,Nikhil Bhatt,Sports Shoes,Clothing,North,1.0,1225.86,0.4,-27.25
+ORD-10212,2025-07-03,Kavita Saxena,Rice Bag 5kg,Grocery,West,4.0,1334.24,0.21,-129.95
+ORD-10159,2025-12-20,Amit Joshi,Sugar Bag 5kg,Grocery,South,2.0,424.12,0.0,43.7
+ORD-10166,2025-02-12,Priya Nair,Cotton Shirt,Clothing,East,4.0,3814.44,0.14,792.52
+ORD-10291,2025-04-09,Ananya Iyer,Cricket Bat,Sports,North,5.0,20422.33,0.0,6712.21
+ORD-10245,2025-03-10,Ravi Teja,Rice Bag 5kg,Grocery,North,4.0,1870.52,0.0,132.63
+ORD-10077,2025-10-05,Pooja Deshmukh,Steel Almirah,Furniture,South,4.0,55807.37,0.07,8459.84
+ORD-10449,2025-03-06,Swati Kulkarni,Smartphone,Electronics,West,1.0,29809.3,0.0,6883.94
+ORD-10003,2025-10-26,Ritika Banerjee,Cricket Bat,Sports,North,6.0,22419.34,0.2,2406.33
+ORD-10598,2025-08-01,Sonal Pande,Cooking Oil 1L,Grocery,South,2.0,249.32,0.0,35.33
+ORD-10610,2025-02-15,Swati Kulkarni,Winter Jacket,Clothing,South,1.0,2061.1,0.09,533.9
+ORD-10481,2025-06-12,Ritika Banerjee,Denim Jeans,Clothing,North,1.0,1408.81,0.0,400.01
+ORD-10422,2025-02-19,Sneha Patil,Smartphone,Electronics,North,1.0,28317.55,0.0,7026.2
+ORD-10070,2025-11-27,Anjali Mishra,Winter Jacket,Clothing,South,3.0,6335.63,0.0,1880.79
+ORD-10091,2025-11-21,Sonal Pande,Tablet,Electronics,East,1.0,9998.92,0.33,-990.04
+ORD-10500,2025-04-19,Lakshmi Narayan,Sports Shoes,Clothing,South,1.0,2428.27,0.0,758.31
+ORD-10321,2025-08-19,Amit Joshi,Yoga Mat,Sports,South,1.0,771.31,0.0,170.46
+ORD-10031,2025-08-10,Nikhil Bhatt,Sugar Bag 5kg,Grocery,East,1.0,176.13,0.17,-4.76
+ORD-10522,2025-01-02,Arjun Menon,Cotton Shirt,Clothing,North,1.0,1561.03,0.0,554.02
+ORD-10177,2025-10-05,Charu Sinha,Winter Jacket,Clothing,South,4.0,10272.84,0.0,3524.22
+ORD-10322,2025-05-19,Ishita Bose,Sports Shoes,Clothing,South,2.0,6088.44,0.0,1879.68
+ORD-10045,2025-04-25,Abhishek Tiwari,Cricket Bat,Sports,East,1.0,4922.63,0.0,1644.39
+ORD-10633,2025-02-28,Aarav Sharma,Smartphone,Electronics,West,1.0,26783.41,0.07,3472.23
+ORD-10079,2025-11-23,Vikram Singh,Rice Bag 5kg,Grocery,South,4.0,1197.95,0.21,-123.85
+ORD-10216,2025-08-26,Swati Kulkarni,Sugar Bag 5kg,Grocery,West,2.0,523.66,0.0,62.17
+ORD-10102,2025-12-31,Divya Krishnan,Tea Pack,Grocery,East,6.0,1151.97,0.0,67.15
+ORD-10466,2025-12-23,Charu Sinha,Tea Pack,Grocery,South,5.0,1152.45,0.0,35.13
+ORD-10368,2025-11-03,Sameer Khan,Cooking Oil 1L,Grocery,East,5.0,590.63,0.07,46.25
+ORD-10342,2025-07-22,Aarav Sharma,Dumbbell Set,Sports,East,3.0,4728.45,0.33,-215.36
+ORD-10354,2025-13-45,Sonal Pande,Rice Bag 5kg,Grocery,North,5.0,1356.36,0.23,-189.46
+ORD-10624,2025-04-15,Neha Gupta,Winter Jacket,Clothing,South,2.0,3064.41,0.0,1062.48
+ORD-10164,2025-02-02,Swati Kulkarni,Smartphone,Electronics,,1.0,22965.47,0.08,3495.69
+ORD-10236,2025-02-15,Preeti Vyas,Detergent Powder,Grocery,North,1.0,247.83,0.08,11.0
+ORD-10066,2025-11-23,Charu Sinha,Rice Bag 5kg,Grocery,South,4.0,1631.36,0.06,22.74
+ORD-10375,2025-03-02,Aditya Rao,Tablet,Electronics,West,2.0,41512.76,0.07,9455.53
+ORD-10050,2025-11-17,Pooja Deshmukh,Tablet,Electronics,South,1.0,26748.1,0.0,6226.79
+ORD-10269,2025-08-27,Kavita Saxena,Wireless Headphones,Electronics,West,4.0,9456.09,0.24,62.01
+ORD-10334,2025-11-17,Lakshmi Narayan,Football,Sports,South,5.0,6806.74,0.06,1703.5
+ORD-10040,2025-10-14,Ritika Banerjee,Cooking Oil 1L,Grocery,South,3.0,334.66,0.32,-63.8
+ORD-10214,,Pooja Deshmukh,Detergent Powder,Grocery,West,2.0,668.63,0.0,73.69
+ORD-10182,2025-11-18,Amit Joshi,Football,Sports,West,4.0,2080.76,0.15,150.25
+ORD-10007,2025-12-17,Gaurav Ahuja,Sugar Bag 5kg,Grocery,West,4.0,947.25,0.0,26.67
+ORD-10590,2025-12-30,Deepak Rane,Smartphone,Electronics,South,1.0,12548.48,0.0,2435.11
+ORD-10572,2025-05-05,Rahul Malhotra,Cricket Bat,Sports,North,1.0,2731.19,0.35,-109.4
+ORD-10611,2025-12-28,Sneha Patil,Rice Bag 5kg,Grocery,South,3.0,888.97,0.35,-167.62
+ORD-10424,2025-04-22,Sneha Patil,Smartphone,Electronics,West,1.0,23227.53,0.09,2684.81
+ORD-10222,2025-08-02,Rahul Malhotra,Sports Shoes,Clothing,North,5.0,21968.73,0.0,8912.12
+ORD-10571,2025-07-14,Ananya Iyer,Cotton Shirt,Clothing,South,1.0,826.83,0.1,122.4
+ORD-10193,2025-04-07,Swati Kulkarni,Wireless Headphones,Electronics,North,3.0,7798.79,0.2,243.81
+ORD-10087,2025-08-22,Amit Joshi,Tea Pack,Grocery,North,4.0,996.22,0.19,-46.58
+ORD-10260,2025-05-17,Ravi Teja,Rice Bag 5kg,Grocery,North,3.0,684.4,0.39,-160.39
+ORD-10482,2025-04-16,Manish Chawla,Office Chair,Furniture,North,3.0,12286.58,0.31,-1377.41
+ORD-10606,2025-09-11,Sneha Patil,Detergent Powder,Grocery,South,1.0,216.47,0.18,-15.1
+ORD-10110,2025-05-10,Gaurav Ahuja,Yoga Mat,Sports,South,5.0,2453.81,0.05,398.1
+ORD-10149,2025-07-24,Rahul Malhotra,Winter Jacket,Clothing,West,6.0,18611.04,0.0,5595.95
+ORD-10042,2025-02-20,Rahul Malhotra,Cricket Bat,Sports,South,1.0,2046.17,0.08,319.85
+ORD-10518,2025-01-26,Sneha Patil,Sugar Bag 5kg,Grocery,West,3.0,593.76,0.09,14.73
+ORD-10404,2025-10-05,Priyanka Sethi,Wireless Headphones,Electronics,North,1.0,3652.66,0.06,515.17
+ORD-10057,2025-04-03,Tanvi Shah,Winter Jacket,Clothing,East,3.0,4965.41,0.0,1657.07
+ORD-10032,2025-11-16,Pooja Deshmukh,Dumbbell Set,Sports,West,3.0,5013.97,0.37,-455.6
+ORD-10279,2025-08-15,Charu Sinha,Football,Sports,North,4.0,2120.22,0.0,626.73
+ORD-10275,2025-12-07,Arjun Menon,Tea Pack,Grocery,North,2.0,384.76,0.22,-49.53
+ORD-10146,2025-09-12,Varun Chopra,Bookshelf,Furniture,West,1.0,4810.09,0.08,256.22
+ORD-10205,2025-10-17,Manish Chawla,Laptop,Electronics,North,2.0,129710.64,0.0,24229.53
+ORD-10109,2025-11-19,Sonal Pande,Wireless Headphones,Electronics,North,1.0,4182.24,0.08,435.12
+ORD-10025,2025-06-01,Ravi Teja,Detergent Powder,Grocery,North,1.0,241.76,0.0,38.11
+ORD-10119,2025-10-30,Priya Nair,Winter Jacket,Clothing,East,5.0,11995.82,0.13,2773.88
+ORD-10134,2025-05-17,Priyanka Sethi,Cotton Shirt,Clothing,North,5.0,3379.2,,-32.48
+ORD-10228,2025-08-17,Kavita Saxena,Rice Bag 5kg,Grocery,West,1.0,301.49,0.09,12.03
+ORD-10434,2025-07-19,Ishita Bose,Cricket Bat,Sports,North,3.0,9713.44,0.07,1463.07
+ORD-10083,2025-10-01,Suresh Pillai,Detergent Powder,Grocery,East,1.0,246.45,0.06,33.71
+ORD-10483,2025-10-31,Aarav Sharma,Rice Bag 5kg,Grocery,North,3.0,931.08,0.2,-83.57
+ORD-10168,2025-02-03,Manoj Dixit,Detergent Powder,Grocery,East,1.0,185.1,0.0,22.26
+ORD-10078,2025-07-27,Meera Kapoor,Cooking Oil 1L,Grocery,South,2.0,335.39,0.0,41.83
+ORD-10524,2025-04-21,Rahul Malhotra,Rice Bag 5kg,Grocery,North,2.0,511.18,0.25,-63.95
+ORD-10071,2025-05-02,Rohan Verma,Office Chair,Furniture,East,1.0,4935.24,0.0,812.33
+ORD-10396,2025-10-21,Charu Sinha,Winter Jacket,Clothing,North,3.0,9524.16,0.0,2961.62
+ORD-10221,2025-12-28,Shreya Dutta,Steel Almirah,Furniture,West,1.0,9607.97,0.0,2174.92
+ORD-10452,2025-01-23,Gaurav Ahuja,Football,Sports,West,2.0,1736.36,0.13,250.11
+ORD-10133,2025-10-25,Rahul Malhotra,Rice Bag 5kg,Grocery,South,3.0,939.94,0.19,-25.62
+ORD-10061,2025-03-19,Shreya Dutta,Cooking Oil 1L,Grocery,West,1.0,110.25,0.14,-1.38
+ORD-10538,2025-11-16,Rahul Malhotra,Tablet,Electronics,East,1.0,22347.26,0.0,4615.0
+ORD-10209,2025-07-01,Vikram Singh,Wireless Headphones,Electronics,West,1.0,2850.31,0.17,1.35
+ORD-10337,2025-07-28,Priyanka Sethi,Wireless Headphones,Electronics,North,3.0,6441.85,0.32,-876.17
+ORD-10447,2025-07-13,Preeti Vyas,Badminton Racket,Sports,West,2.0,3990.53,0.07,674.63
+ORD-10622,2025-07-17,Shreya Dutta,Sports Shoes,Clothing,South,1.0,4769.37,0.0,1507.92
+ORD-10136,2025-10-14,Priyanka Sethi,Laptop,Electronics,South,1.0,49284.86,0.0,9782.02
+ORD-10574,2025-03-29,Aditya Rao,Sugar Bag 5kg,Grocery,East,1.0,266.22,0.0,29.1
+ORD-10329,2025-01-13,Neha Gupta,Cooking Oil 1L,Grocery,South,4.0,693.08,0.0,69.91
+ORD-10378,2025-12-20,Abhishek Tiwari,Winter Jacket,Clothing,East,1.0,1667.66,0.0,521.08
+ORD-10444,2025-12-22,Ishita Bose,Office Chair,Furniture,South,2.0,10106.2,0.14,270.48
+ORD-10577,2025-07-30,Suresh Pillai,Yoga Mat,Sports,West,3.0,1072.08,0.19,118.53
+ORD-10616,2025-02-05,Abhishek Tiwari,Sugar Bag 5kg,Grocery,North,5.0,1311.95,0.0,167.27
+ORD-10336,2025-02-09,Aditya Rao,Cooking Oil 1L,Grocery,South,1.0,152.95,0.0,18.02
+ORD-10030,2025-07-30,Abhishek Tiwari,Tea Pack,Grocery,West,1.0,173.32,0.07,14.75
+ORD-10306,2025-07-12,Amit Joshi,Winter Jacket,Clothing,West,2.0,5998.05,0.0,1762.2
+ORD-10365,2025-10-24,Meera Kapoor,Cooking Oil 1L,Grocery,South,6.0,1098.95,0.0,179.65
+ORD-10200,2025-09-03,Manish Chawla,Cotton Shirt,Clothing,West,1.0,1262.53,0.08,336.79
+ORD-10512,2025-08-17,Sonal Pande,Cricket Bat,Sports,North,2.0,1959.56,0.43,-348.63
+ORD-10383,2025-11-27,Sneha Patil,Detergent Powder,Grocery,South,4.0,1104.12,0.16,21.85
+ORD-10584,2025-03-20,Suresh Pillai,Denim Jeans,Clothing,North,2.0,3404.29,0.0,1121.58
+ORD-10328,2025-10-28,Anjali Mishra,Silk Saree,Clothing,South,1.0,2336.96,0.38,49.42
+ORD-10520,2025-04-15,Nikhil Bhatt,Cricket Bat,Sports,South,3.0,11648.59,0.0,3497.58
+ORD-10293,2025-08-06,Ishita Bose,Yoga Mat,Sports,North,6.0,3029.36,0.18,228.85
+ORD-10323,2025-07-07,Rupal Gandhi,Cotton Shirt,Clothing,South,1.0,829.42,0.06,233.07
+ORD-10335,2025-10-24,Rohan Verma,Wireless Headphones,Electronics,South,2.0,6363.04,0.35,-714.33
+ORD-10443,2025-09-17,Sameer Khan,Sugar Bag 5kg,Grocery,West,4.0,1140.74,0.0,113.18
+ORD-10612,2025-07-12,Neha Gupta,Cooking Oil 1L,Grocery,East,3.0,448.5,0.25,-3.07
+ORD-10257,2025-04-02,Aditya Rao,Detergent Powder,Grocery,South,3.0,1047.58,0.0,118.8
+ORD-10384,2025-04-22,Harish Prasad,Sports Shoes,Clothing,East,2.0,9003.55,0.0,2932.52
+ORD-10421,2025-10-11,Rahul Malhotra,Cooking Oil 1L,Grocery,South,1.0,126.73,0.08,3.98
+ORD-10535,2025-08-21,Sonal Pande,Laptop,Electronics,South,2.0,107211.16,0.06,10664.21
+ORD-10362,2025-07-04,Rohan Verma,Wireless Headphones,Electronics,,2.0,7119.44,0.0,1895.02
+ORD-10105,2025-07-19,Ritika Banerjee,Detergent Powder,Grocery,South,6.0,822.05,0.09,54.42
+ORD-10115,2025-05-20,Karthik Reddy,Laser Printer,Electronics,West,2.0,24822.99,0.06,3450.68
+ORD-10156,2025-09-23,Vikram Singh,Tea Pack,Grocery,North,1.0,282.38,0.0,27.13
+ORD-10313,2025-12-31,Ritika Banerjee,Study Desk,Furniture,South,3.0,18472.65,0.0,3305.67
+ORD-10008,2025-05-08,Neha Gupta,Detergent Powder,Grocery,North,1.0,375.94,0.0,20.29
+ORD-10251,2025-04-28,Ananya Iyer,Cooking Oil 1L,Grocery,West,1.0,139.79,0.0,4.65
+ORD-10474,2025-11-05,Ritika Banerjee,Tablet,Electronics,North,1.0,17705.7,0.0,3837.53
+ORD-10339,2025-04-17,Vikram Singh,Wireless Headphones,Electronics,East,1.0,4701.53,0.06,853.5
+ORD-10597,2025-02-10,Neha Gupta,Tea Pack,Grocery,West,2.0,600.55,0.0,33.03
+ORD-10332,2025-09-08,Meera Kapoor,Office Chair,Furniture,East,2.0,6202.73,0.4,-1168.16
+ORD-10453,2025-07-28,Lakshmi Narayan,Tea Pack,Grocery,West,3.0,802.29,0.13,-19.22
+ORD-10292,2025-10-24,Suresh Pillai,Smartphone,Electronics,North,2.0,27635.89,0.05,3785.81
+ORD-10141,2025-04-19,Preeti Vyas,Sports Shoes,Clothing,North,2.0,6402.13,0.13,1425.23
+ORD-10532,2025-10-02,Sameer Khan,Tea Pack,Grocery,West,1.0,164.18,0.37,-35.21
+ORD-10044,2025-04-30,Sonal Pande,Cotton Shirt,Clothing,North,3.0,4561.98,0.18,651.82
+ORD-10043,2025-07-17,Shreya Dutta,Tea Pack,Grocery,North,3.0,567.03,0.1,37.18
+ORD-10074,2025-03-18,Gaurav Ahuja,Study Desk,Furniture,West,2.0,11489.98,0.09,1330.66
+ORD-10371,2025-05-29,Sneha Patil,Sugar Bag 5kg,Grocery,West,1.0,257.08,0.09,7.13
+ORD-10617,2025-02-18,Harish Prasad,Sugar Bag 5kg,Grocery,West,2.0,360.85,0.14,0.45
+ORD-10067,2025-11-18,Abhishek Tiwari,Rice Bag 5kg,Grocery,West,1.0,423.17,0.06,35.29
+ORD-10012,2025-11-06,Abhishek Tiwari,Yoga Mat,Sports,North,4.0,3327.57,0.09,755.47
+ORD-10418,2025-01-19,Meera Kapoor,Detergent Powder,Grocery,West,2.0,573.0,0.18,-10.0
+ORD-10530,2025-01-09,Manoj Dixit,Cotton Shirt,Clothing,South,5.0,4385.2,0.35,181.42
+ORD-10533,2025-12-19,Sameer Khan,Denim Jeans,Clothing,East,2.0,3922.28,0.19,509.36
+ORD-10583,2025-11-19,Rupal Gandhi,Wireless Headphones,Electronics,South,3.0,4237.56,0.33,-537.25
+ORD-10265,2025-09-21,Neha Gupta,Yoga Mat,Sports,North,3.0,2207.63,0.29,56.32
+ORD-10370,2025-08-28,Rupal Gandhi,Football,Sports,North,6.0,3072.52,0.15,335.29
+ORD-10178,2025-07-18,Arjun Menon,Badminton Racket,Sports,South,3.0,3695.15,0.1,549.05
+ORD-10526,2025-06-29,Priya Nair,Cotton Shirt,Clothing,North,1.0,1494.93,0.0,501.33
+ORD-10389,2025-12-29,Shreya Dutta,Wireless Headphones,Electronics,South,1.0,1989.35,0.36,-232.08
+ORD-10084,2025-05-06,Karthik Reddy,Laser Printer,Electronics,East,4.0,28068.57,0.24,-68.29
+ORD-10397,,Meera Kapoor,Cricket Bat,Sports,South,2.0,5569.38,0.0,1570.48
+ORD-10607,2025-10-26,Sameer Khan,Football,Sports,North,5.0,5777.5,0.0,1469.47
+ORD-10427,2025-11-09,Charu Sinha,Study Desk,Furniture,East,2.0,23714.91,0.0,3735.46
+ORD-10080,2025-08-21,Suresh Pillai,Detergent Powder,Grocery,North,6.0,1189.68,0.0,141.66
+ORD-10024,2025-02-22,  Sonal Pande  ,Football,Sports,South,5.0,7285.58,0.0,1552.5
+ORD-10250,2025-10-21,Gaurav Ahuja,Denim Jeans,Clothing,South,2.0,4113.32,0.0,1531.98
+ORD-10381,2025-11-02,Ravi Teja,Rice Bag 5kg,Grocery,North,4.0,1235.48,0.37,-310.49
+ORD-10441,2025-05-31,Ananya Iyer,Cricket Bat,Sports,South,3.0,4161.13,0.12,766.21
+ORD-10239,2025-10-13,,Laptop,Electronics,South,3.0,119919.32,0.14,9903.83
+ORD-10237,2025-01-28,Kavita Saxena,Winter Jacket,Clothing,North,1.0,3043.09,0.07,838.41
+ORD-10350,2025-12-16,  Meera Kapoor  ,Wireless Headphones,Electronics,West,1.0,1506.32,0.09,291.04
+ORD-10431,2025-01-30,Pooja Deshmukh,Yoga Mat,Sports,West,1.0,489.14,0.25,12.87
+ORD-10138,2025-04-18,Swati Kulkarni,Sports Shoes,Clothing,West,2.0,9231.21,0.0,2996.82
+ORD-10347,2025-04-06,Anjali Mishra,Dumbbell Set,Sports,East,1.0,1788.67,0.31,33.35
+ORD-10356,2025-12-17,Shreya Dutta,Silk Saree,Clothing,East,5.0,16297.98,0.0,5070.9
+ORD-10451,2025-12-01,Priyanka Sethi,Smartphone,Electronics,West,1.0,21939.47,0.0,5745.84
+ORD-10213,2025-10-31,Priya Nair,Office Chair,Furniture,North,4.0,22040.08,0.19,-396.14
+ORD-10010,2025-07-12,Ravi Teja,Winter Jacket,Clothing,North,3.0,4055.28,0.37,-162.17
+ORD-10300,2025-01-03,Ravi Teja,Cooking Oil 1L,Grocery,West,1.0,138.19,0.09,1.68
+ORD-10303,2025-11-11,Nikhil Bhatt,Silk Saree,Clothing,South,5.0,37064.45,0.0,14084.61
+ORD-10589,2025-05-02,Priya Nair,Office Chair,Furniture,South,1.0,6561.65,0.15,335.87
+ORD-10638,2025-05-15,Kavita Saxena,Tea Pack,Grocery,North,1.0,229.33,0.0,21.09
+ORD-10412,2025-05-18,Sonal Pande,Cooking Oil 1L,Grocery,West,3.0,413.15,0.07,24.73
+ORD-10085,2025-02-26,Harish Prasad,Laptop,Electronics,North,1.0,63254.47,0.0,15091.65
+ORD-10301,2025-09-26,Divya Krishnan,Detergent Powder,Grocery,North,2.0,520.86,0.07,30.35
+ORD-10219,2025-08-10,Arjun Menon,Yoga Mat,Sports,North,4.0,3508.13,0.0,1060.14
+ORD-10204,2025-10-03,Vikram Singh,Tablet,Electronics,North,1.0,18230.31,0.0,2756.53
+ORD-10197,2025-09-17,Kavita Saxena,Rice Bag 5kg,Grocery,North,1.0,306.65,0.16,19.89
+ORD-10627,2025-10-24,Divya Krishnan,Detergent Powder,Grocery,South,2.0,426.94,0.14,-0.77
+ORD-10094,2025-10-28,Manish Chawla,Denim Jeans,Clothing,North,5.0,7058.83,0.12,1936.71
+ORD-10272,2025-07-05,Abhishek Tiwari,Laser Printer,Electronics,East,1.0,9064.48,0.07,1470.03
+ORD-10465,2025-07-02,Karthik Reddy,Rice Bag 5kg,Grocery,South,4.0,1636.77,0.0,257.09
+ORD-10595,2025-09-05,Manish Chawla,Laptop,Electronics,North,1.0,45320.56,0.0,7441.49
+ORD-10029,2025-04-08,Manish Chawla,Tablet,Electronics,South,1.0,18813.65,,2415.11
+ORD-10185,2025-04-10,Abhishek Tiwari,Sugar Bag 5kg,Grocery,South,1.0,261.68,0.0,15.74
+ORD-10528,2025-05-26,Kavita Saxena,Badminton Racket,Sports,South,3.0,6036.09,0.06,1253.74
+ORD-10179,2025-06-13,Rahul Malhotra,Football,Sports,North,2.0,2388.2,0.13,391.57
+ORD-10410,2025-10-15,Ananya Iyer,Badminton Racket,Sports,South,2.0,4899.57,0.0,1380.83
+ORD-10154,2025-11-06,Harish Prasad,Rice Bag 5kg,Grocery,West,3.0,1288.65,0.0,150.67
+ORD-10076,2025-12-07,Kavita Saxena,Sofa Set,Furniture,East,2.0,51322.4,0.09,6193.83
+ORD-10361,2025-09-23,Yash Agarwal,Yoga Mat,Sports,South,6.0,3504.12,0.43,-640.94
+ORD-10093,2025-04-15,Swati Kulkarni,Winter Jacket,Clothing,South,2.0,4878.31,0.19,1067.45
+ORD-10357,2025-08-05,Aditya Rao,Sugar Bag 5kg,Grocery,East,1.0,239.45,0.0,34.78
+ORD-10069,2025-01-17,Ishita Bose,Smartphone,Electronics,West,1.0,20274.89,0.0,4674.12
+ORD-10320,2025-12-18,Yash Agarwal,Dumbbell Set,Sports,East,6.0,15531.33,0.0,4157.43
+ORD-10639,2025-06-27,Arjun Menon,Detergent Powder,Grocery,West,4.0,903.49,0.0,70.04
+ORD-10189,2025-11-23,Priyanka Sethi,Sugar Bag 5kg,Grocery,South,1.0,244.55,0.07,18.93
+ORD-10016,2025-04-19,Nikhil Bhatt,Study Desk,Furniture,East,1.0,8567.07,0.09,533.77
+ORD-10605,2025-05-17,Ravi Teja,Dumbbell Set,Sports,West,5.0,17587.11,0.05,2628.81
+ORD-10248,2025-09-27,Meera Kapoor,Denim Jeans,Clothing,South,4.0,5527.03,0.2,764.0
+ORD-10232,2025-12-25,Neha Gupta,Denim Jeans,Clothing,South,2.0,3571.99,0.0,1346.13
+ORD-10089,2025-09-10,Manoj Dixit,Tablet,Electronics,West,2.0,33130.91,0.05,4480.36
+ORD-10548,2025-12-03,Charu Sinha,Wireless Headphones,Electronics,South,1.0,-2220.66,0.09,274.73
+ORD-10118,2025-09-01,Sameer Khan,Tea Pack,Grocery,South,3.0,688.97,0.24,-91.78
+ORD-10544,2025-11-13,Sonal Pande,Badminton Racket,Sports,South,3.0,3623.73,0.18,284.36
+ORD-10555,2025-09-01,Manish Chawla,Smartphone,Electronics,West,1.0,22812.82,0.07,3395.32
+ORD-10034,2025-10-29,Abhishek Tiwari,Cotton Shirt,Clothing,North,4.0,4483.7,0.0,1436.83
+ORD-10001,2025-12-15,Ishita Bose,Detergent Powder,Grocery,East,2.0,554.78,0.09,8.11
+ORD-10175,2025-09-04,Harish Prasad,Laser Printer,Electronics,West,3.0,38955.85,0.0,9880.84
+ORD-10319,2025-09-12,Rupal Gandhi,Steel Almirah,Furniture,West,1.0,13391.26,0.08,1320.82
+ORD-10415,2025-07-15,Aditya Rao,Smartphone,Electronics,West,2.0,41441.22,0.08,4940.82
+ORD-10399,2025-11-21,Gaurav Ahuja,Winter Jacket,Clothing,East,4.0,10641.7,0.0,3875.21
+ORD-10502,2025-03-30,Pooja Deshmukh,Football,Sports,East,3.0,3788.13,0.06,808.09
+ORD-10305,2025-09-26,Tanvi Shah,Cricket Bat,Sports,East,3.0,8919.47,0.09,1454.32
+ORD-10023,2025-11-30,Lakshmi Narayan,Badminton Racket,Sports,West,1.0,922.23,0.0,193.42
+ORD-10062,2025-09-19,Meera Kapoor,Sports Shoes,Clothing,West,2.0,6973.15,0.29,612.09
+ORD-10117,2025-06-27,Ravi Teja,Sugar Bag 5kg,Grocery,East,2.0,419.52,0.09,25.53
+ORD-10458,2025-07-19,Ananya Iyer,Winter Jacket,Clothing,East,2.0,5190.61,0.0,2009.97
+ORD-10229,2025-12-24,Abhishek Tiwari,Cooking Oil 1L,Grocery,North,1.0,131.67,0.31,-18.94
+ORD-10090,2025-06-07,Tanvi Shah,Sports Shoes,Clothing,North,3.0,7797.04,0.24,756.44
+ORD-10183,2025-05-05,Priya Nair,Silk Saree,Clothing,West,1.0,2582.29,0.0,920.0
+ORD-10278,2025-05-05,Deepak Rane,Sports Shoes,Clothing,South,3.0,13619.38,0.0,3743.6
+ORD-10287,2025-03-18,Manoj Dixit,Smartphone,Electronics,East,2.0,24981.01,0.0,5425.55
+ORD-10019,2025-12-08,Shreya Dutta,Cricket Bat,Sports,East,3.0,5873.31,0.0,1920.47
+ORD-10282,2025-09-26,Rahul Malhotra,Office Chair,Furniture,South,3.0,23519.45,0.09,4341.91
+ORD-10479,2025-05-29,Harish Prasad,Cooking Oil 1L,Grocery,West,2.0,294.57,0.0,36.6
+ORD-10145,2025-10-13,Rahul Malhotra,Sports Shoes,Clothing,North,1.0,3646.12,0.17,593.04
+ORD-10341,2025-04-17,Rahul Malhotra,Tablet,Electronics,North,1.0,21209.52,0.0,4523.5
+ORD-10333,2025-11-16,Sameer Khan,Tea Pack,Grocery,East,5.0,1202.36,0.07,0.44
+ORD-10588,2025-09-01,Deepak Rane,Cotton Shirt,Clothing,West,4.0,6772.06,0.14,1247.43
+ORD-10435,2025-02-22,Tanvi Shah,Smartphone,Electronics,West,1.0,16838.39,0.08,1866.42
+ORD-10408,2025-03-17,Manish Chawla,Cricket Bat,Sports,North,4.0,14985.94,0.0,4359.67
+ORD-10047,2025-05-01,Lakshmi Narayan,Denim Jeans,Clothing,West,3.0,3460.12,0.07,935.91
+ORD-10262,2025-12-15,Neha Gupta,Cricket Bat,Sports,North,2.0,7761.21,0.21,376.17
+ORD-10196,2025-05-12,Amit Joshi,Laser Printer,Electronics,North,3.0,28174.51,0.17,2511.26
+ORD-10232,2025-12-25,Neha Gupta,Denim Jeans,Clothing,South,2.0,3571.99,0.0,1346.13
+ORD-10543,2025-10-22,Amit Joshi,Cricket Bat,Sports,South,2.0,2204.36,0.43,-312.61
+ORD-10108,2025-07-10,Pooja Deshmukh,Bookshelf,Furniture,East,1.0,3215.2,0.0,558.67
+ORD-10405,2025-02-01,Suresh Pillai,Badminton Racket,Sports,South,2.0,4615.34,0.0,1095.47
+ORD-10628,2025-02-27,Aditya Rao,Wireless Headphones,Electronics,East,1.0,2615.32,0.21,42.4
+ORD-10290,2025-07-02,Charu Sinha,Wireless Headphones,Electronics,West,4.0,12978.83,0.0,2533.77
+ORD-10587,2025-11-16,Vikram Singh,Laser Printer,Electronics,North,1.0,6863.8,0.14,71.96
+ORD-10312,2025-03-31,Pooja Deshmukh,Denim Jeans,Clothing,South,5.0,9695.55,0.09,2324.2
+ORD-10581,2025-11-17,Ishita Bose,Sports Shoes,Clothing,West,5.0,10767.8,0.0,3461.81
+ORD-10297,2025-10-11,Shreya Dutta,Badminton Racket,Sports,West,3.0,4648.6,0.09,941.08
+ORD-10487,2025-06-07,Nikhil Bhatt,Sports Shoes,Clothing,West,4.0,14642.12,0.07,4086.1
+ORD-10311,2025-01-07,Ishita Bose,Sports Shoes,Clothing,West,5.0,12888.72,0.1,3372.23
+ORD-10150,2025-07-11,Priyanka Sethi,Laptop,Electronics,North,1.0,62058.71,,8095.0
+ORD-10125,2025-08-07,Sneha Patil,Smartphone,Electronics,West,1.0,13137.62,0.0,2510.5
+ORD-10517,2025-05-24,Charu Sinha,Cotton Shirt,Clothing,South,2.0,3060.97,0.0,1033.79
+ORD-10593,2025-10-06,Ravi Teja,Cotton Shirt,Clothing,South,1.0,1465.74,0.0,527.87
+ORD-10186,2025-11-25,Vikram Singh,Cooking Oil 1L,Grocery,South,2.0,267.69,0.24,-45.91
+ORD-10376,2025-04-21,Neha Gupta,Tablet,Electronics,West,2.0,44680.61,0.07,6377.28
+ORD-10423,2025-01-20,,Laptop,Electronics,East,1.0,62642.14,0.0,8559.07
+ORD-10292,2025-10-24,Suresh Pillai,Smartphone,Electronics,North,2.0,27635.89,0.05,3785.81
+ORD-10608,2025-07-08,Manish Chawla,Wireless Headphones,Electronics,North,1.0,,0.0,944.29
+ORD-10143,2025-01-26,Anjali Mishra,Yoga Mat,Sports,West,2.0,982.68,0.0,311.38
+ORD-10142,2025-04-30,Charu Sinha,Sports Shoes,Clothing,South   ,4.0,9560.02,0.09,2367.25
+ORD-10351,2025-12-11,Harish Prasad,Cooking Oil 1L,Grocery,South,2.0,293.35,0.13,2.35
+ORD-10020,2025-01-11,,Cooking Oil 1L,Grocery,North,2.0,185.28,0.41,-43.44
+ORD-10173,2025-09-10,Rohan Verma,Bookshelf,Furniture,North,2.0,10413.02,0.09,1115.28
+ORD-10529,2025-02-21,Ananya Iyer,Sugar Bag 5kg,Grocery,West,3.0,780.15,0.09,21.31
+ORD-10013,2025-10-22,Swati Kulkarni,Cooking Oil 1L,Grocery,North,2.0,217.55,0.17,-7.2
+ORD-10026,2025-10-12,Sameer Khan,Office Chair,Furniture,West,2.0,8079.78,0.09,551.68
+ORD-10454,2025-11-25,Abhishek Tiwari,Laser Printer,Electronics,West,2.0,23197.46,0.2,1401.61
+ORD-10170,2025-11-08,Vikram Singh,Dumbbell Set,Sports,West,3.0,4917.54,0.36,
+ORD-10418,2025-01-19,Meera Kapoor,Detergent Powder,Grocery,West,2.0,573.0,0.18,-10.0
+ORD-10358,2025-02-02,Ravi Teja,Detergent Powder,Grocery,North,3.0,745.21,0.23,-100.87
+ORD-10246,2025-09-15,Priya Nair,Football,Sports,North,1.0,1471.94,0.0,445.63
+ORD-10299,2025-02-03,Vikram Singh,Detergent Powder,Grocery,South,1.0,239.8,0.21,-2.18
+ORD-10382,2025-06-25,Ravi Teja,Yoga Mat,Sports,West,1.0,1122.31,0.0,290.2
+ORD-10273,2025-12-25,Shreya Dutta,Smartphone,Electronics,North,1.0,14245.76,0.08,1159.25
+ORD-10155,2025-06-04,Amit Joshi,Wireless Headphones,Electronics,West,2.0,6910.1,0.15,504.65
+ORD-10127,2025-06-08,Pooja Deshmukh,Cotton Shirt,Clothing,West,1.0,1708.95,0.0,590.12
+ORD-10413,2025-03-02,Sameer Khan,Wireless Headphones,Electronics,South,1.0,3296.06,0.0,643.03
+ORD-10288,2025-04-01,Ravi Teja,Cotton Shirt,Clothing,North,1.0,1718.25,0.0,541.31
+ORD-10114,2025-11-22,Ishita Bose,Rice Bag 5kg,Grocery,West,6.0,1810.18,0.08,-14.63
+ORD-10327,2025-06-15,Meera Kapoor,Detergent Powder,Grocery,South,5.0,1387.1,0.0,196.67
+ORD-10174,2025-11-07,Neha Gupta,Yoga Mat,Sports,East,1.0,636.38,,157.0
+ORD-10058,2025-11-22,Divya Krishnan,Rice Bag 5kg,Grocery,West,5.0,1428.47,0.17,-60.9
+ORD-10592,2025-09-18,Karthik Reddy,Winter Jacket,Clothing,South,3.0,8948.21,0.07,2734.31
+ORD-10223,2025-08-17,Neha Gupta,Cooking Oil 1L,Grocery,North,3.0,328.37,0.08,28.53
+ORD-10281,2025-08-30,  Divya Krishnan  ,Smartphone,Electronics,West,1.0,20460.76,0.24,920.35
+ORD-10018,2025-09-12,Lakshmi Narayan,Smartphone,Electronics,South,2.0,46297.88,0.18,662.31
+ORD-10599,2025-05-26,Ishita Bose,Badminton Racket,Sports,East,2.0,3255.16,0.34,-143.23
+ORD-10256,2025-12-13,Priya Nair,Sugar Bag 5kg,Grocery,South,2.0,513.19,0.09,-33.62
+ORD-10600,2025-10-16,Vikram Singh,Cooking Oil 1L,Grocery,West,6.0,844.75,0.0,90.7
+ORD-10625,2025-11-04,Pooja Deshmukh,Badminton Racket,Sports,East,1.0,1457.8,0.0,454.01
+ORD-10191,2025-10-03,Sonal Pande,Yoga Mat,Sports,North,1.0,786.4,0.0,215.15
+ORD-10586,2025-03-22,Manish Chawla,Cooking Oil 1L,Grocery,South,1.0,165.26,0.1,4.27
+ORD-10573,2025-08-30,Arjun Menon,Sports Shoes,Clothing,East,5.0,19243.23,0.0,5838.46
+ORD-10330,2025-07-25,Meera Kapoor,Sofa Set,Furniture,East,1.0,28991.0,0.0,4056.33
+ORD-10095,2025-10-23,Sonal Pande,Steel Almirah,Furniture,South,1.0,10826.21,0.07,1030.21
+ORD-10181,2025-03-26,Priyanka Sethi,Football,Sports,South,5.0,4896.34,0.0,1421.66
+ORD-10302,2025-01-19,Karthik Reddy,Tablet,Electronics,South,1.0,18647.92,0.08,3045.93
+ORD-10445,2025-12-11,Shreya Dutta,Bookshelf,Furniture,North,2.0,12102.91,0.0,2400.95
+ORD-10540,2025-11-20,Divya Krishnan,Cricket Bat,Sports,East,1.0,3968.39,0.0,1054.83
+ORD-10623,2025-07-08,Yash Agarwal,Badminton Racket,Sports,South,5.0,9197.6,0.08,2094.07
+ORD-10514,2025-09-17,Divya Krishnan,Sofa Set,Furniture,South,1.0,26571.83,0.13,923.4
+ORD-10006,2025-05-12,Priya Nair,Badminton Racket,Sports,South,3.0,5529.23,0.0,1649.22
+ORD-10046,2025-07-15,Sneha Patil,Detergent Powder,Grocery,South,3.0,873.32,0.0,84.35
+ORD-10355,2025-12-31,Manish Chawla,Winter Jacket,Clothing,North,1.0,1550.25,0.06,336.44
+ORD-10469,2025-05-09,Varun Chopra,Tablet,Electronics,West,1.0,20724.71,0.07,2764.2
+ORD-10571,2025-07-14,Ananya Iyer,Cotton Shirt,Clothing,South,1.0,826.83,0.1,122.4
+ORD-10017,2025-01-11,Rahul Malhotra,Rice Bag 5kg,Grocery,South,5.0,1189.21,,-105.05
+ORD-10049,2025-12-14,Lakshmi Narayan,Tea Pack,Grocery,East,2.0,503.2,0.09,28.63
+ORD-10631,2025-06-17,Rohan Verma,Yoga Mat,Sports,North,2.0,1043.78,0.0,306.49
+ORD-10596,2025-11-12,Vikram Singh,Sofa Set,Furniture,West,1.0,21437.29,0.0,4359.22
+ORD-10004,2025-11-02,Varun Chopra,Tea Pack,Grocery,North,2.0,-362.12,0.08,17.37
+ORD-10539,2025-10-25,Meera Kapoor,Laser Printer,Electronics,South,1.0,13883.23,0.0,2220.47
+ORD-10363,2025-09-03,Swati Kulkarni,Wireless Headphones,Electronics,North,1.0,2445.39,0.0,260.33
+ORD-10317,2025-10-16,Sameer Khan,Denim Jeans,Clothing,North,1.0,1381.36,0.0,418.6
+ORD-10284,2025-10-08,Gaurav Ahuja,Study Desk,Furniture,North,2.0,10740.23,0.0,2479.09
+ORD-10437,2025-12-04,Tanvi Shah,Wireless Headphones,Electronics,East,1.0,3483.75,0.09,293.67
+ORD-10286,2025-06-05,Arjun Menon,Denim Jeans,Clothing,South,1.0,1643.88,0.09,377.68
+ORD-10364,2025-03-07,Anjali Mishra,Wireless Headphones,Electronics,West,1.0,2658.73,0.2,142.94
+ORD-10226,2025-02-07,Neha Gupta,Yoga Mat,Sports,West,5.0,4118.36,0.22,540.0
+ORD-10027,2025-06-09,Rahul Malhotra,Winter Jacket,Clothing,South,2.0,4850.72,0.0,1558.44
+ORD-10513,2025-03-31,Pooja Deshmukh,Smartphone,Electronics,North,2.0,23619.64,0.21,385.37
+ORD-10264,2025-08-11,Harish Prasad,Tablet,Electronics,East,1.0,13039.58,0.33,-1555.01
+ORD-10051,2025-05-01,Swati Kulkarni,Office Chair,Furniture,East,3.0,18161.41,0.14,841.11
+ORD-10230,2025-08-14,Lakshmi Narayan,Wireless Headphones,Electronics,East,1.0,3121.1,0.0,606.51
+ORD-10038,2025-12-02,Anjali Mishra,Sports Shoes,Clothing,North,2.0,9094.67,0.06,2419.87
+ORD-10158,2025-12-16,Sameer Khan,Cooking Oil 1L,Grocery,West,4.0,426.66,0.4,-64.54
+ORD-10238,2025-07-31,Priya Nair,Detergent Powder,Grocery,East,2.0,708.99,0.0,
+ORD-10626,2025-04-20,Neha Gupta,Denim Jeans,Clothing,West,3.0,6286.13,0.0,2088.77
+ORD-10176,2025-08-07,Rohan Verma,Smartphone,Electronics,South,1.0,17419.62,0.07,3490.79
+ORD-10549,2025-10-22,Ravi Teja,Sugar Bag 5kg,Grocery,North,3.0,705.22,0.0,90.83
+ORD-10558,2025-05-18,Amit Joshi,Sports Shoes,Clothing,West,5.0,18342.56,0.22,1615.67
+ORD-10195,2025-12-26,Charu Sinha,Tablet,Electronics,East,1.0,21894.33,0.14,1246.9
+ORD-10551,2025-10-10,Suresh Pillai,Sports Shoes,Clothing,,1.0,3695.48,0.0,1282.62
+ORD-10559,2025-07-31,Karthik Reddy,Rice Bag 5kg,Grocery,North,4.0,1632.15,0.0,185.11
+ORD-10630,2025-10-09,Preeti Vyas,Detergent Powder,Grocery,North,6.0,1543.53,0.0,129.96
+ORD-10557,2025-02-26,Preeti Vyas,Steel Almirah,Furniture,North,1.0,10516.95,0.0,1682.29
+ORD-10068,2025-04-26,Yash Agarwal,Steel Almirah,Furniture,South,2.0,34587.18,0.0,4401.25
+ORD-10480,2025-01-30,Anjali Mishra,Denim Jeans,Clothing,West,1.0,2205.45,0.05,577.29
+ORD-10169,2025-03-10,Ishita Bose,Cotton Shirt,Clothing,East,5.0,7161.68,0.0,2225.48
+ORD-10391,2025-02-06,Deepak Rane,Cooking Oil 1L,Grocery,West,3.0,390.43,0.0,62.6
+ORD-10163,2025-04-29,  Preeti Vyas  ,Study Desk,Furniture,West,1.0,6625.5,0.0,1276.97
+ORD-10310,2025-11-18,Priya Nair,Tablet,Electronics,South,2.0,54829.43,0.0,12426.56
+ORD-10194,2025-10-27,Karthik Reddy,Cricket Bat,Sports,North,4.0,7641.35,0.0,1827.43
+ORD-10598,2025-08-01,Sonal Pande,Cooking Oil 1L,Grocery,South,2.0,249.32,0.0,35.33
+ORD-10366,2025-02-22,Divya Krishnan,Denim Jeans,Clothing,West,1.0,1402.35,0.09,325.21
+ORD-10432,2025-08-17,Arjun Menon,Sugar Bag 5kg,Grocery,West,1.0,236.61,0.18,-14.06
+ORD-10153,2025-11-09,Aditya Rao,Tablet,Electronics,East,3.0,70567.23,0.0,18287.06
+ORD-10394,2025-02-17,Deepak Rane,Tea Pack,Grocery,South,1.0,114.12,0.38,-27.07
+ORD-10406,2025-11-07,Nikhil Bhatt,Football,Sports,South,2.0,2604.81,0.05,631.72
+ORD-10227,2025-08-15,Gaurav Ahuja,Smartphone,Electronics,South,1.0,23921.62,0.16,2767.92
+ORD-10400,2025-08-24,Nikhil Bhatt,Winter Jacket,Clothing,North,1.0,2079.74,0.34,2.08
+ORD-10523,2025-05-20,Arjun Menon,Tablet,Electronics,East,4.0,63177.02,0.09,11862.26
+ORD-10104,2025-09-22,Sonal Pande,Badminton Racket,Sports,East,1.0,2087.55,0.0,426.94
+ORD-10489,2025-10-02,Rohan Verma,Rice Bag 5kg,Grocery,East,4.0,1336.74,0.29,-204.05
+ORD-10075,2025-11-22,Karthik Reddy,Smartphone,Electronics,South,1.0,26487.62,0.09,3246.98
+ORD-10510,2025-03-28,Deepak Rane,Wireless Headphones,Electronics,North,4.0,7048.38,0.09,661.34
+ORD-10629,2025-01-11,Priya Nair,Rice Bag 5kg,Grocery,South,4.0,1808.48,0.0,176.99
+ORD-10120,2025-11-22,Divya Krishnan,Cooking Oil 1L,Grocery,South,2.0,310.53,0.0,34.03
+ORD-10468,2025-12-17,Ritika Banerjee,Yoga Mat,Sports,North,4.0,2519.81,0.16,293.57
+ORD-10495,2025-11-25,Deepak Rane,Detergent Powder,Grocery,South,3.0,663.46,0.09,12.85
+ORD-10614,2025-08-31,Yash Agarwal,Badminton Racket,Sports,West,1.0,1536.71,0.34,-96.01
+ORD-10208,2025-07-09,Aarav Sharma,Tea Pack,Grocery,East,1.0,204.78,0.15,-5.0
+ORD-10448,2025-08-19,Harish Prasad,Cooking Oil 1L,Grocery,North,1.0,135.72,0.0,14.13
+ORD-10425,2025-07-06,Gaurav Ahuja,Rice Bag 5kg,Grocery,West,2.0,976.13,0.0,144.87
+ORD-10541,2025-11-27,Amit Joshi,Badminton Racket,Sports,East,3.0,2687.36,0.44,-316.91
+ORD-10488,2025-06-11,,Study Desk,Furniture,East,1.0,5636.51,0.1,185.79
+ORD-10009,2025-07-21,Vikram Singh,Wireless Headphones,Electronics,East,1.0,2917.31,0.06,420.54
+ORD-10457,2025-12-30,Nikhil Bhatt,Badminton Racket,Sports,East,3.0,2166.38,0.34,-72.68
+ORD-10037,2025-07-11,Yash Agarwal,Wireless Headphones,Electronics,,1.0,2770.43,0.0,391.01
+ORD-10140,2025-11-27,Kavita Saxena,Wireless Headphones,Electronics,North,3.0,6674.33,0.2,212.33
+ORD-10254,2025-10-09,Sneha Patil,Study Desk,Furniture,South,1.0,6204.19,0.0,1165.37
+ORD-10304,2025-03-24,Manish Chawla,Sports Shoes,Clothing,West,3.0,8712.23,0.0,2383.47
+ORD-10464,2025-02-25,Aarav Sharma,Steel Almirah,Furniture,South,1.0,8673.39,0.08,749.62
+ORD-10471,2025-11-10,Preeti Vyas,Denim Jeans,Clothing,West,1.0,1002.87,0.19,55.99
+ORD-10369,2025-07-05,Charu Sinha,Cotton Shirt,Clothing,South,3.0,2412.67,0.0,774.86
+ORD-10060,2025-01-27,Manish Chawla,Wireless Headphones,Electronics,South,1.0,1977.42,0.34,-226.13
+ORD-10112,2025-06-02,Shreya Dutta,Office Chair,Furniture,East,1.0,4368.02,0.1,442.53
+ORD-10426,2025-06-20,Abhishek Tiwari,Detergent Powder,Grocery,North,6.0,1883.6,0.0,259.97
+ORD-10438,2025-01-09,Ritika Banerjee,Sports Shoes,Clothing,West,2.0,9650.4,0.0,2442.39
+ORD-10429,2025-08-25,Neha Gupta,Smartphone,Electronics,West,4.0,116049.86,0.0,17588.02
+ORD-10263,2025-12-14,Ananya Iyer,Cotton Shirt,Clothing,West,6.0,7928.94,0.0,2986.67
+ORD-10545,2025-05-28,Deepak Rane,Tablet,Electronics,West,4.0,99781.19,0.05,18409.04
+ORD-10298,2025-05-24,Priyanka Sethi,Detergent Powder,Grocery,West,2.0,383.59,0.09,32.76
+ORD-10151,2025-09-05,Arjun Menon,Cricket Bat,Sports,North,5.0,14497.02,0.33,-62.14
+ORD-10267,2025-12-24,Lakshmi Narayan,Sofa Set,Furniture,South,1.0,33147.69,0.08,2960.84
+ORD-10564,2025-07-18,Rupal Gandhi,Cooking Oil 1L,Grocery,West,4.0,523.55,0.06,27.75
+ORD-10360,2025-09-28,Rahul Malhotra,Rice Bag 5kg,Grocery,West,2.0,736.69,0.13,25.49
+ORD-10576,2025-09-28,Abhishek Tiwari,Sports Shoes,Clothing,South,4.0,14601.22,0.22,1566.58
+ORD-10039,2025-04-22,Swati Kulkarni,Study Desk,Furniture,West,3.0,18984.49,0.41,-3557.09
+ORD-10128,2025-11-15,Abhishek Tiwari,Tablet,Electronics,West,1.0,14654.07,0.14,525.01
+ORD-10417,2025-05-27,Arjun Menon,Tablet,Electronics,East,1.0,21871.83,0.07,2857.71
+ORD-10308,2025-02-01,Ananya Iyer,Cooking Oil 1L,Grocery,West,1.0,149.23,0.09,13.19
+ORD-10199,2025-08-21,Neha Gupta,Office Chair,Furniture,South,2.0,13458.51,0.17,-194.28
+ORD-10352,2025-01-04,Sonal Pande,Laser Printer,Electronics,West,3.0,29201.31,0.0,5781.44
+ORD-10430,2025-09-19,Karthik Reddy,Detergent Powder,Grocery,North,1.0,235.28,0.06,22.28
+ORD-10147,2025-10-01,Sameer Khan,Cotton Shirt,Clothing,North,3.0,1528.79,0.42,-66.99
+ORD-10604,2025-04-14,Rupal Gandhi,Tea Pack,Grocery,West,1.0,251.96,0.24,-31.91
+ORD-10494,2025-04-24,Ritika Banerjee,Cotton Shirt,Clothing,West,2.0,2680.98,0.18,405.53
+ORD-10420,2025-06-18,Manoj Dixit,Yoga Mat,Sports,South   ,,804.21,0.16,95.99
+ORD-10578,2025-11-25,Anjali Mishra,Rice Bag 5kg,Grocery,West,2.0,693.71,0.0,99.57
+ORD-10148,2025-08-06,Gaurav Ahuja,Silk Saree,Clothing,South,3.0,23344.01,0.0,7786.68
+ORD-10507,2025-10-30,Sneha Patil,Cotton Shirt,Clothing,South,2.0,3598.69,0.07,858.38
+ORD-10349,2025-01-29,Ritika Banerjee,Rice Bag 5kg,Grocery,North,1.0,190.55,0.41,-54.14
+ORD-10326,2025-01-24,Sonal Pande,Cooking Oil 1L,Grocery,West,2.0,325.65,0.0,50.19
+ORD-10519,2025-02-19,Kavita Saxena,Laptop,Electronics,South,2.0,118042.15,0.1,9596.78
+ORD-10124,2025-09-23,,Denim Jeans,Clothing,West,2.0,2757.23,0.09,843.18
+ORD-10550,2025-02-07,Charu Sinha,Winter Jacket,Clothing,West,2.0,3951.05,0.28,299.26
+ORD-10097,2025-04-03,Manoj Dixit,Cotton Shirt,Clothing,West,,5138.86,0.0,1524.44
+ORD-10144,2025-12-03,Sameer Khan,Rice Bag 5kg,Grocery,West,5.0,1399.87,,-58.88
+ORD-10240,2025-10-05,Arjun Menon,Wireless Headphones,Electronics,West,1.0,2827.19,0.18,173.06
+ORD-10395,2025-07-06,Yash Agarwal,Laptop,Electronics,West,2.0,123076.41,0.05,6867.84
+ORD-10504,2025-12-13,Manoj Dixit,Sports Shoes,Clothing,South   ,3.0,12901.72,0.15,3276.04
+ORD-10098,2025-11-06,Deepak Rane,Wireless Headphones,Electronics,North,1.0,3121.81,0.07,552.9
+ORD-10372,2025-12-23,Aarav Sharma,Bookshelf,Furniture,South,1.0,4081.56,0.0,753.12
+ORD-10325,2025-04-21,Vikram Singh,Cricket Bat,Sports,West,5.0,8690.66,0.08,1596.53
+ORD-10280,2025-09-21,Abhishek Tiwari,Cricket Bat,Sports,North,6.0,28822.23,0.0,7449.31
+ORD-10294,2025-01-31,Varun Chopra,Wireless Headphones,Electronics,East,1.0,4059.97,0.0,1062.58
+ORD-10255,2025-11-25,Varun Chopra,Study Desk,Furniture,South,2.0,11393.17,0.0,2140.54
+ORD-10401,2025-11-12,Preeti Vyas,Steel Almirah,Furniture,East,2.0,22268.85,0.22,758.53
+ORD-10123,2025-10-10,Divya Krishnan,Wireless Headphones,Electronics,West,1.0,4012.31,0.0,804.78
+ORD-10184,2025-03-12,Rohan Verma,Cotton Shirt,Clothing,West,2.0,2281.45,0.24,238.61
+ORD-10203,2025-03-22,Divya Krishnan,Sports Shoes,Clothing,West,1.0,2901.07,0.0,949.19
+ORD-10439,2025-09-26,Manish Chawla,Sugar Bag 5kg,Grocery,East,3.0,438.39,0.44,-129.97
+ORD-10324,2025-06-24,,Silk Saree,Clothing,East,1.0,5048.88,0.0,1681.63
+ORD-10247,2025-05-04,Amit Joshi,Rice Bag 5kg,Grocery,East,2.0,627.88,0.0,108.89
+ORD-10416,2025-08-13,Lakshmi Narayan,Study Desk,Furniture,North,2.0,10864.07,0.13,548.29
+ORD-10248,2025-09-27,Meera Kapoor,Denim Jeans,Clothing,South,4.0,5527.03,0.2,764.0
+ORD-10491,2025-06-26,Pooja Deshmukh,Tea Pack,Grocery,West,1.0,190.11,0.13,-8.4
+ORD-10542,2025-07-15,Deepak Rane,Rice Bag 5kg,Grocery,West,2.0,798.63,0.0,80.79
+ORD-10496,2025-06-25,Meera Kapoor,Rice Bag 5kg,Grocery,North,1.0,359.68,0.07,45.12
+ORD-10575,2025-06-02,Vikram Singh,Cricket Bat,Sports,North,2.0,3048.58,0.15,269.97
+ORD-10470,2025-08-12,Yash Agarwal,Sports Shoes,Clothing,South,1.0,4232.15,0.0,1345.45
+ORD-10126,2025-01-15,Aditya Rao,Sports Shoes,Clothing,West,1.0,3358.42,0.13,773.89
+ORD-10403,2025-12-16,Priya Nair,Detergent Powder,Grocery,East,3.0,524.34,0.0,27.15
+ORD-10515,2025-01-20,Kavita Saxena,Cotton Shirt,Clothing,South,5.0,3665.62,0.24,304.2
+ORD-10560,2025-01-07,Harish Prasad,Sports Shoes,Clothing,North,6.0,13386.11,0.0,4629.76
+ORD-10224,2025-09-26,Amit Joshi,Dumbbell Set,Sports,North,4.0,7637.9,0.0,2295.48
+ORD-10343,2025-07-29,Gaurav Ahuja,Detergent Powder,Grocery,West,6.0,943.65,0.0,80.69
+ORD-10054,2025-03-24,Varun Chopra,Cooking Oil 1L,Grocery,West,2.0,217.62,0.19,-5.46
+ORD-10220,2025-09-01,Rupal Gandhi,Denim Jeans,Clothing,North,1.0,1797.08,0.0,605.42
+ORD-10130,2025-06-14,Divya Krishnan,Rice Bag 5kg,Grocery,South,2.0,784.79,0.06,62.85
+ORD-10591,2025-02-26,Priya Nair,Yoga Mat,Sports,North,2.0,1524.29,0.0,
+ORD-10620,2025-05-10,Pooja Deshmukh,Smartphone,Electronics,West,1.0,24993.34,0.09,3917.94
+ORD-10187,2025-06-10,Tanvi Shah,Cotton Shirt,Clothing,West,1.0,959.19,0.0,295.66
+ORD-10594,2025-01-25,Preeti Vyas,Rice Bag 5kg,Grocery,South,5.0,2026.38,0.0,383.09
+ORD-10440,2025-10-17,Nikhil Bhatt,Cooking Oil 1L,Grocery,South,1.0,134.74,0.0,21.4
+ORD-10478,2025-04-12,Ravi Teja,Cooking Oil 1L,Grocery,South,1.0,163.89,0.0,24.02
+ORD-10101,2025-12-07,Charu Sinha,Yoga Mat,Sports,West,1.0,830.34,0.13,131.45
+ORD-10486,2025-05-04,Preeti Vyas,Denim Jeans,Clothing,East,4.0,6561.57,0.28,210.54
+ORD-10387,2025-05-15,Deepak Rane,Tea Pack,Grocery,South,3.0,995.37,0.0,79.48
+ORD-10632,2025-10-22,Sonal Pande,Cricket Bat,Sports,North,2.0,7573.71,0.0,1865.19
+ORD-10295,2025-05-09,Meera Kapoor,Cricket Bat,Sports,North,3.0,6525.78,0.19,344.54
+ORD-10268,2025-04-08,Rupal Gandhi,Tablet,Electronics,South,1.0,15753.44,0.0,2929.59
+ORD-10052,2025-05-04,Yash Agarwal,Laptop,Electronics,East,2.0,79353.76,0.21,-2427.19
+ORD-10442,2025-11-27,Ishita Bose,Tablet,Electronics,North,2.0,41215.69,0.05,7247.83
+ORD-10501,2025-10-28,Priya Nair,Sugar Bag 5kg,Grocery,West,,668.23,0.09,59.84
+ORD-10113,2025-12-03,Charu Sinha,Cotton Shirt,Clothing,South,2.0,1668.87,0.0,576.55
+ORD-10180,2025-07-16,Nikhil Bhatt,Sugar Bag 5kg,Grocery,East,2.0,423.94,0.1,27.75
+ORD-10508,2025-12-29,Ananya Iyer,Cricket Bat,Sports,North,1.0,3371.44,0.0,958.73
+ORD-10618,2025-12-10,Abhishek Tiwari,Cotton Shirt,Clothing,West,3.0,5054.85,0.0,1588.08
+ORD-10534,2025-12-30,Kavita Saxena,Cooking Oil 1L,Grocery,West,1.0,73.62,0.4,-17.79
+ORD-10527,2025-06-15,Aarav Sharma,,Sports,West,6.0,16223.94,0.0,4451.35
+ORD-10374,2025-06-03,Anjali Mishra,Cotton Shirt,Clothing,West,3.0,4204.99,0.13,865.09
+ORD-10315,2025-03-13,Yash Agarwal,Cotton Shirt,Clothing,North,1.0,1187.42,0.0,373.47
+ORD-10463,2025-08-26,Arjun Menon,Dumbbell Set,Sports,South,3.0,8239.78,0.09,1487.66
+ORD-10152,2025-04-09,Sneha Patil,Football,Sports,South,1.0,1393.68,0.0,353.18
+ORD-10172,2025-11-30,Priya Nair,Sports Shoes,Clothing,South,4.0,8755.46,0.0,2701.19
+ORD-10234,2025-03-16,Pooja Deshmukh,Rice Bag 5kg,Grocery,West,5.0,1322.78,0.43,-332.26
+ORD-10307,2025-07-18,Varun Chopra,Denim Jeans,Clothing,North,2.0,3439.26,0.07,901.36
+ORD-10516,2025-12-07,Karthik Reddy,Laser Printer,Electronics,South,1.0,7078.87,0.32,-253.39
+ORD-10165,2025-03-01,Meera Kapoor,Rice Bag 5kg,Grocery,South,6.0,2990.47,0.0,200.3
+ORD-10318,2025-10-04,Ishita Bose,Tea Pack,Grocery,North,3.0,542.66,0.06,19.61
+ORD-10137,2025-11-09,Tanvi Shah,Dumbbell Set,Sports,North,3.0,9863.95,0.13,1101.8
+ORD-10411,2025-01-26,Deepak Rane,Cooking Oil 1L,Grocery,North,0.0,304.15,0.08,13.95
+ORD-10580,2025-12-20,Ishita Bose,Cotton Shirt,Clothing,South,3.0,2806.62,0.0,1011.34
+ORD-10198,2025-05-18,Ritika Banerjee,Football,Sports,North,1.0,784.86,0.23,77.6
+ORD-10359,2025-11-26,Sneha Patil,Sports Shoes,Clothing,West,3.0,14103.39,0.0,4390.16
+ORD-10259,2025-04-11,Yash Agarwal,Smartphone,Electronics,East,4.0,46217.31,0.05,8823.24
+ORD-10233,2025-07-28,Ishita Bose,Dumbbell Set,Sports,West,1.0,1283.34,0.17,161.03
+ORD-10536,2025-08-30,Vikram Singh,Office Chair,Furniture,East,1.0,7489.49,0.0,1312.08
+ORD-10116,2025-10-02,,Cricket Bat,Sports,South,3.0,11632.63,0.05,2205.68
+ORD-10121,2025-01-31,Abhishek Tiwari,Rice Bag 5kg,Grocery,North,2.0,811.73,0.16,-11.83
+ORD-10446,2025-01-03,Priyanka Sethi,Tea Pack,Grocery,South,1.0,242.32,0.14,-1.59
+ORD-10283,2025-07-04,  Neha Gupta  ,Study Desk,Furniture,South,1.0,7738.91,0.09,708.12
+ORD-10377,2025-07-27,Rupal Gandhi,Yoga Mat,Sports,North,1.0,1047.81,0.0,270.68
+ORD-10385,2025-09-27,Shreya Dutta,Denim Jeans,Clothing,West,3.0,5219.96,0.0,1552.05
+ORD-10225,2025-10-23,Anjali Mishra,Sofa Set,Furniture,North,3.0,116870.86,0.0,20791.92
+ORD-10619,2025-12-30,Ishita Bose,Wireless Headphones,Electronics,West,1.0,4363.28,0.0,1093.25
+ORD-10531,2025-04-26,Neha Gupta,Tea Pack,Grocery,North,4.0,1100.1,0.16,-29.77
+ORD-10473,2025-13-45,Tanvi Shah,Wireless Headphones,Electronics,North,2.0,4833.5,0.0,968.63
+ORD-10348,2025-12-17,Anjali Mishra,Bookshelf,Furniture,East,1.0,6865.39,0.0,1244.11
+ORD-10506,2025-10-02,Neha Gupta,Detergent Powder,Grocery,East,2.0,559.17,0.06,15.14
+ORD-10266,2025-11-10,Anjali Mishra,Laser Printer,Electronics,West,1.0,11397.25,0.13,409.55
+ORD-10602,2025-12-16,Rahul Malhotra,Sugar Bag 5kg,Grocery,East,1.0,124.87,0.38,-27.38
+ORD-10552,2025-01-26,Manoj Dixit,Tablet,Electronics,North,1.0,18960.73,0.0,4980.52
+ORD-10086,2025-04-11,Aarav Sharma,Wireless Headphones,Electronics,South,1.0,1543.49,0.19,61.78
+ORD-10243,2025-03-30,Sneha Patil,Study Desk,Furniture,West,1.0,11601.83,0.0,2261.62
+ORD-10160,2025-12-29,Manoj Dixit,Sugar Bag 5kg,Grocery,West,5.0,966.16,0.08,79.35
+ORD-10525,2025-06-24,Meera Kapoor,Wireless Headphones,Electronics,East,2.0,4327.48,0.22,-95.62
+ORD-10036,2025-07-25,Divya Krishnan,Office Chair,Furniture,South,2.0,9586.15,0.33,-1182.67
+ORD-10171,2025-09-12,Divya Krishnan,Steel Almirah,Furniture,West,2.0,27380.68,0.0,4396.44
+ORD-10554,2025-11-05,Rohan Verma,Yoga Mat,Sports,West,3.0,3171.84,0.09,555.83
+ORD-10546,2025-12-04,Gaurav Ahuja,Winter Jacket,Clothing,South,1.0,1206.98,0.24,106.95
+ORD-10613,2025-11-02,Sonal Pande,Badminton Racket,Sports,East,4.0,7580.36,0.2,-128.19
+ORD-10096,,Manoj Dixit,Cooking Oil 1L,Grocery,East,1.0,111.34,0.31,-18.94
+ORD-10241,2025-01-18,Abhishek Tiwari,Cricket Bat,Sports,East,1.0,2048.72,0.36,-70.65
+ORD-10461,2025-12-23,Swati Kulkarni,Rice Bag 5kg,Grocery,East,4.0,1368.54,0.0,127.87
+ORD-10568,2025-07-20,Shreya Dutta,Smartphone,Electronics,South,1.0,22844.45,0.0,5418.44
+ORD-10207,2025-02-27,Aditya Rao,Wireless Headphones,Electronics,West,2.0,5100.91,0.08,810.63
+ORD-10393,2025-06-02,Rahul Malhotra,Rice Bag 5kg,Grocery,South,1.0,399.33,0.0,26.14
+ORD-10398,2025-06-14,Manish Chawla,Steel Almirah,Furniture,South,1.0,12392.52,0.0,2227.43
+ORD-10547,2025-02-08,Vikram Singh,Denim Jeans,Clothing,West,2.0,,0.0,1468.39
+ORD-10218,2025-07-03,Priyanka Sethi,Wireless Headphones,Electronics,South,3.0,13338.38,0.09,1577.3
+ORD-10005,2025-04-15,Ritika Banerjee,Wireless Headphones,Electronics,West,1.0,1507.86,0.1,138.93
+ORD-10579,2025-05-08,Nikhil Bhatt,Cricket Bat,Sports,West,2.0,8606.7,0.12,1130.52
+ORD-10099,2025-12-09,Nikhil Bhatt,Wireless Headphones,Electronics,East,1.0,4873.25,0.0,929.02
+ORD-10407,2025-08-22,Swati Kulkarni,Sofa Set,Furniture,North,3.0,93673.28,0.0,16089.48
+ORD-10503,2025-11-06,Aarav Sharma,Yoga Mat,Sports,North,3.0,2954.82,0.0,917.62
+ORD-10048,2025-11-03,Ananya Iyer,Sofa Set,Furniture,South,1.0,21980.79,0.0,3955.33
+ORD-10033,2025-09-04,Priyanka Sethi,Cotton Shirt,Clothing,West,4.0,3395.78,0.08,873.46
+ORD-10201,2025-09-10,Aditya Rao,Detergent Powder,Grocery,North,1.0,279.38,0.05,31.97
+ORD-10135,2025-11-17,Anjali Mishra,Rice Bag 5kg,Grocery,East,2.0,766.7,0.13,-3.81
+ORD-10028,2025-04-18,Neha Gupta,Smartphone,Electronics,North,1.0,15659.38,0.0,2989.33
+ORD-10570,2025-08-29,Aditya Rao,Silk Saree,Clothing,South,5.0,9976.73,0.45,-949.17
+ORD-10231,2025-07-09,Pooja Deshmukh,Tablet,Electronics,South,1.0,16531.7,0.17,807.43
+ORD-10490,2025-07-26,Sneha Patil,Rice Bag 5kg,Grocery,North,2.0,783.17,0.0,88.49
+ORD-10379,2025-10-09,Rupal Gandhi,Denim Jeans,Clothing,West,3.0,4908.61,0.0,1684.51
+ORD-10289,2025-11-04,Gaurav Ahuja,Silk Saree,Clothing,West,1.0,3670.2,0.22,542.32
+ORD-10419,2025-09-23,Suresh Pillai,Office Chair,Furniture,East,1.0,5982.97,0.24,-433.99
+ORD-10392,2025-10-30,Harish Prasad,Wireless Headphones,Electronics,West,4.0,12759.75,0.12,650.74
+ORD-10499,2025-03-29,Amit Joshi,Cotton Shirt,Clothing,West,2.0,1898.54,0.0,559.67
+ORD-10139,2025-08-20,Abhishek Tiwari,Detergent Powder,Grocery,West,1.0,377.12,0.0,44.39
+ORD-10063,2025-11-28,Vikram Singh,Rice Bag 5kg,Grocery,West,1.0,370.36,0.0,41.45
+ORD-10472,2025-07-02,Sonal Pande,Sports Shoes,Clothing,East,2.0,9871.81,0.0,3811.08
+ORD-10129,2025-01-28,Aarav Sharma,Wireless Headphones,Electronics,South,1.0,3872.91,0.0,704.98
+ORD-10635,2025-10-08,Pooja Deshmukh,Smartphone,Electronics,West,2.0,56186.96,0.06,7671.23
+ORD-10521,2025-05-07,Rohan Verma,Cricket Bat,Sports,South,1.0,2250.62,0.0,596.28
+ORD-10065,2025-12-14,Sneha Patil,Cooking Oil 1L,Grocery,East,1.0,167.46,0.07,14.15
+ORD-10015,2025-11-10,Manoj Dixit,Winter Jacket,Clothing,South,1.0,1771.47,0.06,454.3
+ORD-10157,2025-03-26,Swati Kulkarni,Sofa Set,Furniture,North,4.0,141981.64,0.08,14801.25
+ORD-10041,2025-10-31,Vikram Singh,Winter Jacket,Clothing,North,2.0,6336.5,0.09,1502.62
+ORD-10493,2025-09-26,Suresh Pillai,Cooking Oil 1L,Grocery,West,1.0,142.21,0.05,17.84
+ORD-10380,2025-04-23,Rahul Malhotra,Sugar Bag 5kg,Grocery,South,2.0,502.53,0.0,46.8
+ORD-10188,2025-10-05,Ritika Banerjee,Wireless Headphones,Electronics,West,1.0,1892.37,0.0,260.46
+ORD-10217,2025-10-03,Harish Prasad,Wireless Headphones,Electronics,South,1.0,4369.55,0.08,336.84
+ORD-10053,2025-05-22,Manish Chawla,Detergent Powder,Grocery,South,4.0,895.78,0.06,27.75
+ORD-10338,2025-09-10,Nikhil Bhatt,Tea Pack,Grocery,North,1.0,329.78,0.0,42.8
+ORD-10296,2025-03-02,,Yoga Mat,Sports,West,1.0,831.09,0.29,1.28
+ORD-10252,2025-12-22,Aarav Sharma,Football,Sports,West,3.0,,0.22,127.06
+ORD-10462,2025-05-14,Ishita Bose,Tablet,Electronics,South,1.0,21998.49,0.21,-113.73
+ORD-10456,2025-08-19,Priyanka Sethi,Office Chair,Furniture,West,1.0,5694.34,0.17,-136.16
+ORD-10276,2025-11-19,Aditya Rao,Denim Jeans,Clothing,North,2.0,4483.78,0.07,979.51
+ORD-10270,2025-11-11,Aarav Sharma,Laptop,Electronics,North,2.0,79718.41,0.19,5384.32
+ORD-10202,2025-09-06,Aarav Sharma,Badminton Racket,Sports,East,1.0,1659.14,0.29,-59.34
+ORD-10162,2025-03-02,Nikhil Bhatt,Yoga Mat,Sports,North,4.0,2289.01,0.17,244.23
+ORD-10556,2025-11-07,Meera Kapoor,Study Desk,Furniture,South,2.0,15784.22,0.07,2179.84
+ORD-10402,2025-07-31,Aarav Sharma,Yoga Mat,Sports,South,1.0,419.21,0.38,-25.78
+ORD-10477,2025-12-05,Pooja Deshmukh,Denim Jeans,Clothing,North,6.0,13609.43,0.07,4049.6
+ORD-10106,2025-12-19,Neha Gupta,Tea Pack,Grocery,West,3.0,618.42,0.23,-24.35
+ORD-10566,2025-05-12,Ravi Teja,Cooking Oil 1L,Grocery,North,1.0,161.82,0.0,18.38
+ORD-10390,2025-03-22,Ishita Bose,Cricket Bat,Sports,North,2.0,7352.54,0.15,1246.16
+ORD-10002,2025-03-10,Ishita Bose,Winter Jacket,Clothing,South,1.0,2079.04,0.2,170.89
+ORD-10609,2025-03-05,Rohan Verma,Sugar Bag 5kg,Grocery,South,5.0,1462.46,0.0,195.05
+ORD-10562,2025-05-06,Ananya Iyer,Study Desk,Furniture,South,2.0,11689.92,0.0,2120.48
+ORD-10081,2025-10-16,Ananya Iyer,Cooking Oil 1L,Grocery,North,4.0,634.84,0.15,-52.44
+ORD-10206,2025-10-23,Abhishek Tiwari,Study Desk,Furniture,West,1.0,3410.69,0.34,-550.44
+ORD-10035,2025-12-29,Gaurav Ahuja,Sports Shoes,Clothing,West,2.0,7590.18,0.0,2538.7
+ORD-10509,2025-06-28,Arjun Menon,Sports Shoes,Clothing,East,3.0,10163.51,0.19,1541.43
+ORD-10428,2025-06-24,Gaurav Ahuja,Cricket Bat,Sports,South,1.0,1631.45,0.08,338.01
+ORD-10455,2025-05-12,Abhishek Tiwari,Wireless Headphones,Electronics,North,2.0,7416.96,0.0,1388.4
+ORD-10367,2025-10-26,,Detergent Powder,Grocery,South,1.0,151.51,0.14,3.87
+ORD-10092,2025-12-03,Pooja Deshmukh,Tea Pack,Grocery,North,5.0,1491.37,0.09,65.35
+ORD-10340,2025-01-29,Charu Sinha,,Sports,South,4.0,1927.19,0.07,362.9
+ORD-10565,2025-11-25,Ishita Bose,Cooking Oil 1L,Grocery,East,2.0,308.43,0.0,38.35
+ORD-10346,2025-12-13,Charu Sinha,Detergent Powder,Grocery,West,1.0,288.63,,24.61
+ORD-10242,2025-09-25,Yash Agarwal,Detergent Powder,Grocery,East,1.0,157.32,0.06,-2.13
+ORD-10014,2025-06-08,Aarav Sharma,Cricket Bat,Sports,West,1.0,3629.21,0.17,527.43
+ORD-10316,2025-04-06,Aditya Rao,Cotton Shirt,Clothing,South,1.0,1755.82,0.0,498.15
+ORD-10601,2025-03-10,Ritika Banerjee,Sports Shoes,Clothing,West,3.0,10122.31,0.31,271.04
+ORD-10388,2025-10-10,Lakshmi Narayan,Dumbbell Set,Sports,South,6.0,12480.99,0.14,2137.8
+ORD-10274,2025-12-28,Ravi Teja,Rice Bag 5kg,Grocery,East,1.0,334.67,0.19,-47.44
+ORD-10167,2025-12-24,Preeti Vyas,Cricket Bat,Sports,South,2.0,7210.71,0.18,568.31
+ORD-10159,2025-12-20,Amit Joshi,Sugar Bag 5kg,Grocery,South,2.0,424.12,0.0,43.7
+ORD-10485,2025-10-30,Anjali Mishra,Smartphone,Electronics,North,4.0,53896.1,0.15,2120.32
+ORD-10637,2025-03-08,Divya Krishnan,Tea Pack,Grocery,North,2.0,405.9,0.08,10.82
+ORD-10505,2025-09-06,Ishita Bose,Silk Saree,Clothing,East,6.0,42710.84,0.0,12999.24
+ORD-10244,2025-12-02,Aditya Rao,Silk Saree,Clothing,East,1.0,5601.97,0.07,1592.75
+ORD-10567,2025-11-24,Manish Chawla,Sugar Bag 5kg,Grocery,South,1.0,238.17,0.08,15.93
+ORD-10563,2025-06-12,Varun Chopra,Cricket Bat,Sports,West,1.0,1605.1,0.0,393.98
+ORD-10190,2025-02-12,Rohan Verma,Bookshelf,Furniture,West,1.0,4294.67,0.0,499.66
+ORD-10476,2025-08-06,Amit Joshi,Cotton Shirt,Clothing,West,3.0,4533.04,0.2,657.93
+ORD-10511,2025-08-21,Anjali Mishra,Wireless Headphones,Electronics,West,1.0,2424.27,0.0,348.66
+ORD-10059,2025-06-26,  Priyanka Sethi  ,Tablet,Electronics,North,3.0,61569.72,0.14,1137.44
+ORD-10475,2025-06-12,Tanvi Shah,Sofa Set,Furniture,North,1.0,21809.78,0.32,-2297.21
+ORD-10561,2025-07-11,Swati Kulkarni,Wireless Headphones,Electronics,South,1.0,2795.96,0.0,479.44
+ORD-10253,2025-08-24,Preeti Vyas,Winter Jacket,Clothing,East,1.0,1692.33,0.23,205.63
+ORD-10022,2025-08-17,Manish Chawla,Cotton Shirt,Clothing,West,1.0,867.82,0.12,205.55
+ORD-10314,2025-08-08,Aarav Sharma,Cotton Shirt,Clothing,East,1.0,1942.84,0.0,622.41
+ORD-10460,2025-01-11,Karthik Reddy,Cooking Oil 1L,Grocery,West,3.0,577.17,0.0,81.61
+ORD-10161,2025-06-26,Priyanka Sethi,Wireless Headphones,Electronics,East,1.0,2908.25,0.07,195.27
+ORD-10277,2025-05-18,Sonal Pande,Cotton Shirt,Clothing,North,1.0,1108.95,0.09,292.65
+ORD-10192,2025-05-22,Lakshmi Narayan,Study Desk,Furniture,West,1.0,9215.25,0.17,-32.56
+ORD-10386,2025-12-19,Ritika Banerjee,Badminton Racket,Sports,East,1.0,2103.86,0.09,407.04
+ORD-10414,2025-07-02,Ritika Banerjee,Football,Sports,West,2.0,1791.51,0.33,-41.68
+ORD-10492,2025-11-12,Ritika Banerjee,Cooking Oil 1L,Grocery,East,1.0,142.44,0.0,10.11
+ORD-10344,2025-03-31,Aarav Sharma,Rice Bag 5kg,Grocery,North,0.0,982.16,0.4,-213.67
+ORD-10309,2025-11-10,Abhishek Tiwari,Bookshelf,Furniture,South,1.0,3318.29,0.3,-371.29
+ORD-10131,2025-12-03,Rohan Verma,Laser Printer,Electronics,North,2.0,11984.92,0.43,-2887.62
+ORD-10100,2025-10-10,Shreya Dutta,Dumbbell Set,Sports,East,2.0,5792.35,0.0,1376.44
+ORD-10373,2025-10-04,Rohan Verma,Cotton Shirt,Clothing,East,3.0,5295.51,0.07,1599.82
+ORD-10088,2025-08-22,Arjun Menon,Winter Jacket,Clothing,West,3.0,3843.03,0.23,274.68
+ORD-10459,2025-03-10,Aarav Sharma,Detergent Powder,Grocery,West,4.0,1160.9,0.0,201.07
+ORD-10331,2025-09-07,Priyanka Sethi,Sugar Bag 5kg,Grocery,South,3.0,741.91,0.0,114.48
+ORD-10215,2025-11-22,Manish Chawla,Tea Pack,Grocery,South,2.0,390.31,0.23,-23.95
+ORD-10467,2025-08-12,Charu Sinha,Cooking Oil 1L,Grocery,North,3.0,577.05,0.0,73.4
+ORD-10122,2025-04-29,Neha Gupta,Cooking Oil 1L,Grocery,West,2.0,291.1,0.14,7.29
+ORD-10615,2025-12-14,Meera Kapoor,Sofa Set,Furniture,North,4.0,103047.09,0.19,104.69
+ORD-10021,2025-04-21,Deepak Rane,Sugar Bag 5kg,Grocery,West,1.0,222.75,0.0,19.06
+ORD-10072,2025-09-02,Ritika Banerjee,Denim Jeans,Clothing,East,2.0,3899.4,0.08,831.28
+ORD-10107,2025-02-07,Harish Prasad,Winter Jacket,Clothing,South,3.0,5175.54,0.37,-114.15
+ORD-10271,2025-05-02,,Smartphone,Electronics,North,3.0,36989.99,0.0,8044.06
+ORD-10436,2025-11-04,Sonal Pande,Office Chair,Furniture,North,2.0,10550.52,0.05,1863.94
+ORD-10103,2025-06-05,Pooja Deshmukh,Bookshelf,Furniture,North,1.0,6326.71,0.0,845.76

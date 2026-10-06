@@ -1,0 +1,38 @@
+======================================================================
+DATA CLEANING REPORT
+======================================================================
+
+BEFORE CLEANING
+----------------------------------------------------------------------
+  Rows              : 652
+  Columns           : 10
+  Missing cells     : 36
+  Duplicate rows    : 12
+  Data types        : {'Order_ID': 'str', 'Order_Date': 'str', 'Customer_Name': 'str', 'Product': 'str', 'Category': 'str', 'Region': 'str', 'Quantity': 'float64', 'Sales': 'float64', 'Discount': 'float64', 'Profit': 'float64'}
+
+CLEANING STEPS APPLIED
+----------------------------------------------------------------------
+  1. Trimmed whitespace in text columns (10 cells adjusted).
+  2. Converted Order_Date to datetime: 5 row(s) dropped (2 unparseable date string(s), 3 already missing).
+  3. Coerced numeric columns to number types (17 non-numeric/missing values found).
+  4. Dropped 15 row(s) missing essential values (Order_Date, Product, Category, Region, Quantity, Sales, Profit).
+  5. Filled 10 missing Customer_Name value(s) with 'Unknown Customer'.
+  6. Filled 8 missing Discount value(s) with the median discount (7.00%).
+  7. Removed 12 exact duplicate record(s).
+  8. Removed 4 invalid record(s): 2 with Quantity <= 0, 2 with Sales <= 0, 0 with Discount outside [0, 1].
+
+AFTER CLEANING
+----------------------------------------------------------------------
+  Rows              : 616
+  Columns           : 10
+  Missing cells     : 0
+  Duplicate rows    : 0
+  Data types        : {'Order_ID': 'string', 'Order_Date': 'datetime64[us]', 'Customer_Name': 'string', 'Product': 'string', 'Category': 'string', 'Region': 'string', 'Quantity': 'int64', 'Sales': 'float64', 'Discount': 'float64', 'Profit': 'float64'}
+
+  Total rows removed: 36
+
+NOTES
+----------------------------------------------------------------------
+  - 105 order(s) have negative Profit (genuine losses). These are valid business records and were KEPT for analysis.
+
+======================================================================
